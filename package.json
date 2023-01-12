@@ -28,7 +28,7 @@
     "@fontsource/lexend": "^4.5.1",
     "framer-motion": "^4.1.17",
     "gh-pages": "^3.2.3",
-    "next": "^11.1.2",
+    "next": "^12.1.0",
     "next-pwa": "^5.3.1",
     "next-seo": "^4.26.0",
     "react": "^17.0.2",
