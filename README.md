@@ -1,6 +1,9 @@
 # peeps-generator
 
 An avatar generator using openpeeps.com image library
+
+Demo @ [peeps-generator.vercel.app](https://peeps-generator.vercel.app/)
+
 ## Getting Started
 
 Clone the project
