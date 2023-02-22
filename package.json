@@ -2,7 +2,7 @@
   "name": "peeps-avatar-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alpliar.github.io/peeps-avatar-generator",
+  "homepage": "https://peeps-generator.vercel.app/",
   "author": "alpliar",
   "scripts": {
     "dev": "next dev",
