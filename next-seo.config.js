@@ -1,8 +1,8 @@
 /** @type {import('next-seo').DefaultSeoProps} */
 const defaultSEOConfig = {
   title: "peeps-generator",
-  titleTemplate: "%s | nextchakra-starter",
-  defaultTitle: "nextchakra-starter",
+  titleTemplate: "%s | peeps-generator",
+  defaultTitle: "peeps-generator",
   description: "An avatar generator using openpeeps.com images",
   canonical: "https://peeps-generator.vercel.app",
   openGraph: {
